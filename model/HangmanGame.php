@@ -51,7 +51,7 @@ class HangmanGame {
             if ($word[$i] == strtolower($letter)) {
                 $word[$i] = $letter;
             }
-            // ändra session till $word
+            // change session to $word
         }
         return 'You guessed : ' . $letter;
     }
