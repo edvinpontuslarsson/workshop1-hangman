@@ -1,5 +1,5 @@
-Banana
-Äpple
-Frukt
-Kaffe
-Fisk
+banan
+äpple
+frukt
+kaffe
+fisk
